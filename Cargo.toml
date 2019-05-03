@@ -1,0 +1,10 @@
+[package]
+name = "multimandel"
+version = "0.1.0"
+authors = ["forinti <forinti@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+num-complex = "0.2"
+image = "*"
+rand = "*"
